@@ -1,0 +1,5 @@
+Prompt: Elabora una propuesta para un proyecto de consultoría que ayude a una empresa de retail a mejorar su cadena de suministro y logística, incluyendo un análisis de costos y beneficios esperados.
+
+Prompt: Elabora una propuesta de financiación para obtener apoyo para un proyecto de investigación en energías renovables, incluyendo objetivos, metodología, presupuesto y beneficios esperados.
+
+Prompt: Me han solicitado una propuesta técnica para el despliegue de una red de telecomunicaciones que incluya las tecnologías 4G y 5G, necesito esa propuesta técnica detallada como si fueras un experto técnico y la mayor extensión posible.

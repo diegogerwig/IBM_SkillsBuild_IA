@@ -1,0 +1,3 @@
+Crea un artículo para LinkedIn "Los mejores métodos de SQL", después añade sugerencias de cómo poder mejorar el artículo y pregúntame si quiero aplicar estas sugerencias
+
+aplica la sugerencia 1

@@ -1,0 +1,1 @@
+quiero que hagas una aplicación para que a partir de una imagen de un ticket dada, extraiga toda la información relevante y la estructure en una tabla, debe dar la posibilidad al usuario de añadir varias imágenes a la vez

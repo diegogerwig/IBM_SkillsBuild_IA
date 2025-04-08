@@ -1,0 +1,16 @@
+Contexto:
+Para intentar vender nuestros productos de Machine Learning, se enviarán correos electrónicos personalizados que harán una o dos preguntas específicas relacionadas con la ocupación del destinatario y solicitarán retroalimentación.
+Quiero crear correos electrónicos personalizados que sean atractivos para diferentes personas en diferentes roles.
+Te proporciono un archivo Excel con el nombre de la persona y su rol.
+
+Tarea:
+Genera un correo electrónico corto de manera única para cada persona.
+Debe ser generado de manera única y adaptado a su rol.
+Ajusta el tono de voz y todo el correo electrónico para que sea único y esté adaptado a su rol.
+
+Asegúrate de leer todo el archivo Excel y añadir las respuestas en una nueva columna en el dataframe.
+Siempre guarda las respuestas completas y detalladas en el dataframe, nunca las resumas ni las acortes.
+Al final, verifica que los correos electrónicos suenen bien y luego quiero descargar el archivo con las respuestas.
+
+Acerca del correo electrónico:
+Corto y conciso, preguntando algunas cosas sobre su rol y solicitando de una manera única retroalimentación que también esté adaptada a su rol. Para cada correo electrónico, utiliza un tono de voz específico dependiendo de su rol.

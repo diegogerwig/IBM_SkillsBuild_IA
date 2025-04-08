@@ -1,0 +1,2 @@
+Prompt: Prepara una presentación de PowerPoint sobre las tendencias actuales en nuevas tecnologías, destacando los principales componentes innovadores y sus impactos en el mercado.
+Prompt (para cada diapositiva): Detalla el contenido de la diapositiva X

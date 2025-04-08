@@ -1,0 +1,9 @@
+Quiero crear un post acerca del análisis de datos, escribe un post para mi blog e intenta hacerlo de la mejor manera posible realizándome preguntas previamente que te ayuden a darme el mejor resultado
+
+1. Informar e inspirar
+2. Con experiencia previa
+3.Herramientas como PowerBI o Python
+5.Sí
+7.Extenso y detallado
+
+expande el punto "Creación de Gráficos Impactantes" del capítulo 1

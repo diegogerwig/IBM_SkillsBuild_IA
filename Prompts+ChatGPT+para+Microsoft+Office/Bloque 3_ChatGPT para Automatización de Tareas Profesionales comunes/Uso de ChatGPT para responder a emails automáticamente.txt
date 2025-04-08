@@ -1,0 +1,33 @@
+-----Plantilla análisis estilo email--------
+Por favor analiza mi estilo de escritura y dame un breve analisis de este estilo. No debes contestar al email, solo enfocarte en el contenido.
+Enfócate en el estilo y tono de voz. Resúmelo en 3 puntos pero a la vez bien estructurado y muy bien formateado.
+
+Email a ser analizado:
+[Ejemplo email]
+
+
+<<<<<<<Resultado ejemplo análisis estilo>>>>>>>>>>
+Claridad y concisión: Utilizas frases cortas y directas para comunicar tus ideas de manera efectiva. El tono de voz es profesional y amigable, lo que facilita la comprensión del mensaje.
+
+Estructura lógica: Organizas tu comunicación de manera ordenada, presentando una secuencia de pasos claros y coherentes para abordar el proyecto de Machine Learning. Enumeras los pasos de manera sistemática, lo que facilita la comprensión del proceso que propones.
+
+Enfoque en la colaboración: Expresas tu disposición para trabajar en equipo al mencionar la necesidad de ayuda con la conectividad a las fuentes de datos y al preguntar por las fechas de inicio del proyecto. Esto demuestra tu interés en colaborar y adaptarte a las necesidades de los demás.
+-----------------------------------------------------
+
+
+
+-----Plantila email---------
+Necesito que escribas un email por mí.
+
+Este es mi estilo de escritura típico de emails:
+[mi tono de voz y estilo]
+
+Por favor usa este estilo combinado con [nuevo tono de voz]
+Destinatario del email: 
+Rol del destinatario: 
+Por favor responde a este email:
+[Email]
+
+
+
+

@@ -1,0 +1,19 @@
+necesito saber cuáles han sido los países que han ganado unos juegos olímpicos
+
+
+convierte la respuesta en formato tabla
+
+
+añade una columna con el número de veces que ha ganado cada país
+
+
+
+crea un artículo en base a la información anterior
+
+
+
+añade un tono humorístico al artículo anterior
+
+
+
+ponlo en formato de blog con cabeceras y subcabeceras

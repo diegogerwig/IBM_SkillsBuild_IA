@@ -1,0 +1,4 @@
+tengo un Excel con datos de Ventas en la pestaña "sales_data_sample_bis" y los datos están desde la columna "A" a la "M", necesito que crees una macro que filtre la tabla por la columna "G" que sea igual a "Motorcycles", a continuación con el resultado anterior copiar únicamente las columnas desde la "A" a la "G" en una nueva pestaña que tienes que llamar "Resultado"
+
+
+tienes que mantener la cabecera

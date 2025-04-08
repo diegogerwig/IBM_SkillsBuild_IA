@@ -1,0 +1,4 @@
+Prompt: Organiza un itinerario para un taller de capacitación empresarial de dos días, incluyendo sesiones, tiempos de descanso y actividades de networking.
+Prompt (para cada sesión): Detalla el contenido de la sesión X
+Prompt (para cada punto del contenido): Desarrolla el contenido del punto X
+Prompt: Diseña una encuesta para recopilar feedback de los usuarios del taller

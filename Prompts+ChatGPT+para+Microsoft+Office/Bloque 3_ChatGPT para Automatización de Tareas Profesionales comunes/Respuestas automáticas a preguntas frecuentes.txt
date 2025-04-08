@@ -1,0 +1,5 @@
+Ponte en el papel de un chatbot para una empresa de informática que se dedica a dar soporte a preguntas de usuarios domésticos. Te iré indicando una serie de problemas típicos que se encuentra el usuario y sus preguntas frecuentes para que vayas ofreciendo paso a paso la mejor solución.
+
+Usuario 1: estoy teniendo problemas con la conexión a Internet
+Usuario 2: el portal web no me reconoce el certificado digital
+Usuario 3: no soy capaz de instalar una aplicación, me indica que el driver del dispositivo de pantalla no se reconoce

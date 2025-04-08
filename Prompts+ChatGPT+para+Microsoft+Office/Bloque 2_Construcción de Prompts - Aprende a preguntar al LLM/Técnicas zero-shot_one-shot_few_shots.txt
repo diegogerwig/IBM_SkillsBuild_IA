@@ -1,0 +1,18 @@
+Crea un resumen para el siguiente artículo:
+Artículo: La historia de Barcelona se extiende a lo largo de 4000 años, desde finales del Neolítico, con los primeros restos hallados en el territorio de la ciudad, hasta la actualidad. El sustrato de sus habitantes aúna a los pueblos iberos, romanos, judíos, visigodos, musulmanes y cristianos. Como capital de Cataluña y segunda ciudad en importancia de España, la Ciudad Condal ha forjado su relevancia con el tiempo, desde ser una pequeña colonia romana hasta convertirse en una ciudad cosmopolita valorada internacionalmente por aspectos como su economía, su patrimonio artístico, su cultura, su deporte y su vida social.
+
+Crea un resumen para el siguiente artículo:
+Ejemplo artículo: Si bien el área ya había sido ocupada por asentamientos previos, la historia de Madrid como núcleo urbano habitado de forma continuada tiene su inicio en el siglo ix, con la construcción de una fortaleza en la zona promovida por el emir Mohamed I, y está marcada por el establecimiento en ella de la corte real en 1561 y, con la consolidación del país, su transformación en la capital de la monarquía, capital a la que el antimadrileñismo habría tratado, en palabras de José Cepeda Adán, en clave de ciudad frívola y superficial, con «una historia sin historia, hecha de entradas solemnes, fiestas, carnavales y bullicio», si bien este autor destaca la importancia clave en la política estatal de numerosos episodios históricos acaecidos en la ciudad, al punto de considerar a Madrid epicentro de todas las revoluciones.​ En la actualidad es la ciudad más poblada de España.
+
+Ejemplo resumen: La historia de Madrid inició en el siglo ix y a día de hoy es la ciudad más poblada de España.
+
+Artículo: La historia de Barcelona se extiende a lo largo de 4000 años, desde finales del Neolítico, con los primeros restos hallados en el territorio de la ciudad, hasta la actualidad. El sustrato de sus habitantes aúna a los pueblos iberos, romanos, judíos, visigodos, musulmanes y cristianos. Como capital de Cataluña y segunda ciudad en importancia de España, la Ciudad Condal ha forjado su relevancia con el tiempo, desde ser una pequeña colonia romana hasta convertirse en una ciudad cosmopolita valorada internacionalmente por aspectos como su economía, su patrimonio artístico, su cultura, su deporte y su vida social.
+Resumen:
+(Dame 1 sentencia similar al ejemplo indicado)
+
+
+resume la historia de Madrid en el siguiente formato:
+Inicio:
+Construcciones:
+Población actual: [en millones de personas]
+PIB: [en €]

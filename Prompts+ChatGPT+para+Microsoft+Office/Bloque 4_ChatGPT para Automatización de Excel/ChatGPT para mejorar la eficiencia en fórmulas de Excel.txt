@@ -1,0 +1,9 @@
+crea una fórmula de Excel en español para calcular el valor medio de la columna D completa
+
+crea una fórmula de Excel en español para calcular el valor medio de la columna D pero ten en cuenta únicamente los valores que superen el valor 1000
+
+
+necesito una fórmula en Excel para contar el número de filas que cumplen con lo siguiente:
+la columna G es igual a "Motorcycles"
+la columna J es igual a "NYC"
+la columna M no puede ser "Small"

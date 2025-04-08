@@ -1,0 +1,5 @@
+dame un dataset de muestra de ventas de una empresa ficticia en formato tabla
+
+necesito el resultado en csv
+
+convierte el resultado en pdf

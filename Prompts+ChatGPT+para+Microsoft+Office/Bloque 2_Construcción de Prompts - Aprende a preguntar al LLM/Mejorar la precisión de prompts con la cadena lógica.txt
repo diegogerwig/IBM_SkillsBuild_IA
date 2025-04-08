@@ -1,0 +1,14 @@
+1
+cuenta cuántas palabras hay en el siguiente artículo:
+"Si bien el área ya había sido ocupada por asentamientos previos, la historia de Madrid como núcleo urbano habitado de forma continuada tiene su inicio en el siglo ix, con la construcción de una fortaleza en la zona promovida por el emir Mohamed I, y está marcada por el establecimiento en ella de la corte real en 1561 y, con la consolidación del país, su transformación en la capital de la monarquía, capital a la que el antimadrileñismo habría tratado, en palabras de José Cepeda Adán, en clave de ciudad frívola y superficial, con «una historia sin historia, hecha de entradas solemnes, fiestas, carnavales y bullicio», si bien este autor destaca la importancia clave en la política estatal de numerosos episodios históricos acaecidos en la ciudad, al punto de considerar a Madrid epicentro de todas las revoluciones.​ En la actualidad es la ciudad más poblada de España."
+
+2
+cuenta cuántas palabras hay en el siguiente artículo:
+"Si bien el área ya había sido ocupada por asentamientos previos, la historia de Madrid como núcleo urbano habitado de forma continuada tiene su inicio en el siglo ix, con la construcción de una fortaleza en la zona promovida por el emir Mohamed I, y está marcada por el establecimiento en ella de la corte real en 1561 y, con la consolidación del país, su transformación en la capital de la monarquía, capital a la que el antimadrileñismo habría tratado, en palabras de José Cepeda Adán, en clave de ciudad frívola y superficial, con «una historia sin historia, hecha de entradas solemnes, fiestas, carnavales y bullicio», si bien este autor destaca la importancia clave en la política estatal de numerosos episodios históricos acaecidos en la ciudad, al punto de considerar a Madrid epicentro de todas las revoluciones.​ En la actualidad es la ciudad más poblada de España."
+
+Haz un razonamiento paso a paso
+
+
+3
+genera un plan de preparación para una entrevista de trabajo para un puesto de analista de datos
+haz un razonamiento paso a paso

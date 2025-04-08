@@ -1,0 +1,1 @@
+quiero que revises este fichero y me quites duplicados, además debes ordenarlo por "Fecha compra" de manera ascendente y añadir una columna denominada "Prioridad" de tal manera que si la columna "Tamaño pedido" es "Large" entonces la "Prioridad" será "alta", en caso contrario "baja"

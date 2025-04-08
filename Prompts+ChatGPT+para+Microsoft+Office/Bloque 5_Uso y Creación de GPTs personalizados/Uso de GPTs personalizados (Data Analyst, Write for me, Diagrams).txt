@@ -1,0 +1,15 @@
+GPT Data Analyst:
+me gustaría que mostraras varios histogramas con las principales variables numéricas del fichero
+
+necesito que hagas una matriz de factores de correlación entre las variables numéricas, muestra la matriz visualmente
+
+
+GPT Write for me:
+Escribe un post sobre el futuro de la industria 4.0 con un máximo de 800 palabras
+
+GPT Diagrams:
+estoy pensando crear un negocio de productos de Extremadura (España), necesito que me des ideas creando un mapa mental
+
+crea el proceso a seguir paso a paso para emprender este negocio teniendo en cuenta que me enfocaré en un e-commerce de embutidos para el mercado nacional con los diferentes ingredientes y lo quiero promocionar tanto en redes sociales como eventos locales
+
+
